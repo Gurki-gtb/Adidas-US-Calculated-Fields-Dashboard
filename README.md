@@ -14,7 +14,7 @@ Key Fields Created For this Project:
 - Month-Year labeling 
 - Sales Value Bins
 
-👉 Full Detailed Breakdown (along with solutions) available in the [Calculated Fields Project.pdf]
+👉 Full Detailed Breakdown (along with solutions) available in the [Calculated Fields Project.pdf](https://docs.google.com/document/d/1NrzbQ1dogNWj-_FSp_-a-LEkFMESD-OmuHtnRrnusnI/edit?usp=sharing)
 
 ## 📸 📷 Dashboard Preview
 
