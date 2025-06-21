@@ -20,12 +20,12 @@ Key Fields Created For this Project:
 
 ![Dashboard Screenshot](dashboard-preview.png)
 
-## Tools Used 
+## Tools Used 📊
 
 - Google Looker Studio
 - Google Sheets
 
-## Key Takeaways 
+## Key Takeaways 🚀
 
 - Leveled up my calculated fields knowledge by building some from scratch
 - Practice pre-aggregation, binning, and formatting
